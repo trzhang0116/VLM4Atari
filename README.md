@@ -1,3 +1,3 @@
 # VLMRL
 
-Efficient fine-tuning VLMs on Atari
+Efficient fine-tuning of VLMs on Atari
